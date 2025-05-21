@@ -30,23 +30,6 @@ Cada estrutura possui seu próprio submenu com operações típicas:
 | Pilha    | Empilhar, Desempilhar (LIFO), Exibir |
 | Pesquisa | Busca simples (linear) em array fixo |
 
----
-
-##  Como Rodar o Sistema
-
-1. **Clone o repositório**:
-   ```bash
-   git clone: https://github.com/Fantin007/Menu-Interativo
-   ```
-
-2. **Abra no Visual Studio**:
-   - Abra a pasta/clique no `.sln` (se disponível).
-   - Ou crie um novo projeto do tipo `Console App` e cole o conteúdo no `Program.cs`.
-
-3. **Compile e execute**:
-   - Pressione `Ctrl + F5` ou clique em **Iniciar sem Depuração**.
-
----
 
 ##  Pré-requisitos
 
