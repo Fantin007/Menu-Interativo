@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\EstruturaAPS\EstruturaAPS\EstruturaAPS\obj\Debug\EstruturaAPS.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\EstruturaAPS\EstruturaAPS\EstruturaAPS\obj\Debug\EstruturaAPS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\EstruturaAPS\EstruturaAPS\EstruturaAPS\bin\Debug\EstruturaAPS.exe.config
+C:\Users\Aluno\source\EstruturaAPS\EstruturaAPS\EstruturaAPS\bin\Debug\EstruturaAPS.exe
+C:\Users\Aluno\source\EstruturaAPS\EstruturaAPS\EstruturaAPS\bin\Debug\EstruturaAPS.pdb
+C:\Users\Aluno\source\EstruturaAPS\EstruturaAPS\EstruturaAPS\obj\Debug\EstruturaAPS.exe
+C:\Users\Aluno\source\EstruturaAPS\EstruturaAPS\EstruturaAPS\obj\Debug\EstruturaAPS.pdb
